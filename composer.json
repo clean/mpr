@@ -1,0 +1,11 @@
+{
+    "name": "romannowicki/mpr",
+    "type": "library",
+    "licence": "Apache-2.0",
+    "version": "1.0.0",
+    "autoload": {
+        "files": [
+            "mpr.php"
+        ]
+    }
+}
