@@ -1,6 +1,8 @@
 <?php
 /**
  * My print_r - debug function
+ * @author Oliwier Ptak (https://github.com/oliwierptak)
+ *
  * Usage example:
  * mpr($mixed);
  * mpr($mixed,1); <- stop execution of the script
