@@ -1,19 +1,13 @@
 # mpr
 My print_r - debug function
 
-Dumbs information about variable in a nice way
+Prints human-readable information about a variable
 
 ## Installation
 
-via Composer:
+via [Composer](https://packagist.org/packages/romannowicki/mpr):
 
-```json
-"require-dev": {
-  "romannowicki/clix": "1.0.0"
-}
-```
-
-## Usage
+## Example of Usage
 
 Dump variable and continue
 
