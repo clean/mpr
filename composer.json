@@ -1,8 +1,10 @@
 {
-    "name": "romannowicki/mpr",
+    "name": "clean/mpr",
     "type": "library",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "version": "1.0.0",
+    "description": "Prints human-readable information about a variable",
+    "keywords": ["print_r", "debug", "trace"],
     "autoload": {
         "files": [
             "mpr.php"

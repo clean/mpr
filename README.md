@@ -5,7 +5,7 @@ Prints human-readable information about a variable
 
 ## Installation
 
-via [Composer](https://packagist.org/packages/romannowicki/mpr)
+via [Composer](https://packagist.org/packages/clean/mpr)
 
 ## Example of Usage
 
